@@ -1,0 +1,4 @@
+Create new environment --> python -m venv Madhan(Virtual environment Name)
+Activate the existing project -->Madhan\scripts\activate
+Install the Jupyter notebook --> Pip install jupyter
+  Jupyter notebook
